@@ -7,3 +7,5 @@ HTML5CSS3Web
 Содержание:
 
 `Введение <https://html5css3web3.readthedocs.io/ru/latest/start.html>`_
+`Введение 
+в современный дизайн. Web 2.0. Создание страниц <https://html5css3web3.readthedocs.io/ru/latest/start-to-new-webpages.html>`_
