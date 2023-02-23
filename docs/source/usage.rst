@@ -1,7 +1,6 @@
-Usage
+Введение
 =====
-
-.. _installation:
+Он
 
 Installation
 ------------
@@ -32,3 +31,4 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Спасибо
