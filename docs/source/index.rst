@@ -6,4 +6,4 @@ HTML5CSS3Web
 
 Содержание:
 * **Введение**:
-  :doc:`start`
+  :doc: `start`
