@@ -9,5 +9,5 @@ Contents
 
 .. toctree::
 
-   Вступление
-   Содержимое Web-страниц.
+   start
+   web pages
