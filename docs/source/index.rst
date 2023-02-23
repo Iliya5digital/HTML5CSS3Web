@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+HTML5CSS3Web
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+Приветствую! Это документация по HTML5CSS3Web.
+Вы найдете много полезной информации, котором вы можете улучшить свои навыки написания сайтов на HTML.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Вступление
