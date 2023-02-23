@@ -7,7 +7,7 @@ HTML5CSS3Web
 Contents
 --------
 
-.. toctree::
+.. doctree::
 
    start
    web pages
