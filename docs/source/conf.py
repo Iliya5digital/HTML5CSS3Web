@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HTML5CSS3Web2.0'
+copyright = '2023, Iliya Bylich'
+author = 'Iliya Bylich'
 
 release = '0.1'
 version = '0.1.0'
