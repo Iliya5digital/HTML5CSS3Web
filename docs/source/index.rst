@@ -8,4 +8,5 @@ HTML5CSS3Web
 
 * `Введение <https://html5css3web3.readthedocs.io/ru/latest/start.html>`_ 
 * `Введение в современный дизайн. Web 2.0. Создание страниц <https://html5css3web3.readthedocs.io/ru/latest/start-to-new-webpages.html>`_
-* `Интернет: как все это работает <https://html5css3web3.readthedocs.io/ru/latest/internet-and-web-pages.html>`_ 
+* `Интернет: как все это работает <https://html5css3web3.readthedocs.io/ru/latest/internet-and-web-pages.html>`_
+* `Основные принципы создания Web-страниц. Язык HTML 5. <https://html5css3web3.readthedocs.io/ru/latest/html5.html>`_ 
